@@ -38,7 +38,7 @@ The app requests the following permissions:
 
 ## 📷 Screenshots
 
-_Add screenshots of your app here to showcase key features._
+_Add screenshots of app here to showcase key features._
 
 ## 🚀 How to Run
 
